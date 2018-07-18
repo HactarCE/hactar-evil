@@ -19,6 +19,7 @@
 ;; TODO string stuff (case, join, etc.)
 ;; TODO ss/xx/cc vs S/X/C
 ;; TODO next/prev search result (evil search? isearch? something else?)
+;; TODO C-x/C-c/C-v (and S- variants)
 
 ;; FIXME unused keys do their normal Vim thing
 
